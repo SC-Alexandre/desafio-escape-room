@@ -91,16 +91,16 @@ git rm --cached config/application.properties
 ## Commits relevantes
 
 ### Hashes Investigados:
-commit: 64f88f6 (branch: release-dev)
-commit: a70ee84 (branch: release-dev)
-commit: 0cd80f6 (branch: release-dev)
-commit: 6572d8a (branch: release-dev)
-commit: 9a6d3b0 (branch: release-dev)
-commit: 7fe8faa (branch: docs-readme)
+- `64f88f6` (branch: `release-dev`)
+- `a70ee84` (branch: `release-dev`)
+- `0cd80f6` (branch: `release-dev`)
+- `6572d8a` (branch: `release-dev`)
+- `9a6d3b0` (branch: `release-dev`)
+- `7fe8faa` (branch: `docs-readme`)
 
 ### Hashes Restaurados:
-commit: 4574eee (branch: main) 
-commit: 7fe8faa (branch: docs-readme)
+- `4574eee` (branch: `main`)
+- `7fe8faa` (branch: `docs-readme`)
 
 ## Validação final
 Após a aplicação das correções na branch `resgate/equipe-01`, foram realizadas as seguintes validações:
