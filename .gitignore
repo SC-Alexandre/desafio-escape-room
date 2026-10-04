@@ -2,4 +2,4 @@ target/
 *.class
 .idea/
 .vscode/
-config/application.properties
+config/
